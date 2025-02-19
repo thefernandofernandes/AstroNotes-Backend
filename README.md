@@ -1,5 +1,3 @@
-AstroNotes - Observações Astronômicas
-AstroNotes é um sistema web para armazenar e gerenciar observações astronômicas, permitindo aos usuários registrar detalhes como título, descrição, data, localização, tipo de evento, e imagens das observações feitas.
 
 Tecnologias Utilizadas
 Node.js: Plataforma de execução para JavaScript no servidor.
