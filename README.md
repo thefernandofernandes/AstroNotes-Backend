@@ -1,9 +1,13 @@
 
 Tecnologias Utilizadas
 Node.js: Plataforma de execução para JavaScript no servidor.
+
 TypeScript: Superset do JavaScript que adiciona tipagem estática.
+
 Express: Framework minimalista para criação de APIs RESTful.
+
 TypeORM: ORM para interação com bancos de dados relacionais (PostgreSQL).
+
 PostgreSQL: Banco de dados relacional usado para armazenar as observações.
 
 Comunicação e Fluxo de Dados
